@@ -1,0 +1,14 @@
+body {
+  color: #222222;
+  font-size: 16px; }
+
+a {
+  transition: -webkit-transform 1s;
+  transition: transform 1s;
+  transition: transform 1s, -webkit-transform 1s; }
+
+p {
+  margin-bottom: 19px; }
+
+h1 {
+  font-size: 2em; }
